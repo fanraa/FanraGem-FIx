@@ -28,14 +28,14 @@
     {
       "src": "https://picsum.photos/seed/fanragem1/1080/1920",
       "sizes": "1080x1920",
-      "type": "image/png",
+      "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "Tampilan Mobile FanraGem"
     },
     {
       "src": "https://picsum.photos/seed/fanragem2/1920/1080",
       "sizes": "1920x1080",
-      "type": "image/png",
+      "type": "image/jpeg",
       "form_factor": "wide",
       "label": "Tampilan Desktop FanraGem"
     }
